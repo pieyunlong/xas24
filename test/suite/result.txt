@@ -1,0 +1,6 @@
+test_mysql_ok (test.case.user.test_mysql_ok.MyTestCase) ... ok
+
+----------------------------------------------------------------------
+Ran 1 test in 0.041s
+
+OK
